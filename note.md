@@ -1,9 +1,6 @@
 # DevOps for Beginners
 
 
-**How to setup a webserver for complete beginners**
-
-
 ```bash
 
 sudo apt install nginx -y
